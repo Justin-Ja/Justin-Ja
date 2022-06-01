@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JustinJa2003
-- 👀 I’m interested in just coding
+- 👋 Hi, I’m @Justin-Ja
+- 👀 I’m interested in learning coding and online security
 - 🌱 I’m currently learning Computer Science at the University of Guelph
-- 💞️ I’m looking to collaborate on N/A
+- 💞️ I’m not looking to collaborate
 - 📫 How to reach me: Email (yustinyakel100@gmail.com)
 
 <!---
