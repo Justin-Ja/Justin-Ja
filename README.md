@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Justin-Ja
-- 👀 I’m interested in learning coding and cyber security
 - 🌱 I’m currently learning Computer Science at the University of Guelph
 
 
