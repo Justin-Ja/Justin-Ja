@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Justin-Ja
+- 👋 Hi, I’m @Justin
 - 🌱 I’m currently learning Computer Science at the University of Guelph
 
 
