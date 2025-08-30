@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Justin
-- 🌱 I’m currently learning Computer Science at the University of Guelph
-- You can contact me through email: jjakel@uoguelph.ca
+- To be better updated soon!
 
 
 <!---💞️
