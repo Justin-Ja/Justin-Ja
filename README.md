@@ -5,7 +5,7 @@
 
 <div align="center">
   
-### 💫About Me :
+## 💫About Me :
 🔭 I’m currently working on my [Soundboard Project](https://github.com/Justin-Ja/Soundboard)
   
 🌱 I’m currently learning : C#/WPF, Parallel Programming and Security Foundations
