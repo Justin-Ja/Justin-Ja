@@ -1,9 +1,9 @@
-<h2 align="center">
+<h1 align="center">
   Welcome to Justin's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
+</h1>
 
-<div align="center">
+<div align="left">
   
 ## 💫About Me :
 🔭 I’m currently working on my [Soundboard Project](https://github.com/Justin-Ja/Soundboard)
