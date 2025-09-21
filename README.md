@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Justin
-- To be better updated soon!
-
-
-<!---💞️
-JustinJa2003/JustinJa2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="center">
+  Welcome to Justin's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
