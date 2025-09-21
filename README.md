@@ -13,7 +13,7 @@
   ⚡ I've mainly done work/projects in Typescript, Python and C# 
 
   📫 How to reach me:  
-  Mail me at "jjakel@uoguelph.ca" or 
-  Find me on [LinkedIn](https://www.linkedin.com/in/justin-jakel/)
+  Mail me at "jjakel@uoguelph.ca" or <br>
+  find me on [LinkedIn](https://www.linkedin.com/in/justin-jakel/)
 
 </div>
