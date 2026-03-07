@@ -5,9 +5,9 @@
 
   
 ## 💫About Me :
-🔭 I’m currently working on my [Soundboard Project](https://github.com/Justin-Ja/Soundboard)
+🔭 I’m currently working on a C- Compiler, and a auto scaling cloud application project
   
-🌱 I’m currently learning : C#/WPF, Parallel Programming and Security Foundations
+🌱 I’m currently learning : Cryptography, Cloud Architecture, Compilers
 
 ⚡ I've mainly done work/projects in Typescript, Python and C# 
 
