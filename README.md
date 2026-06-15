@@ -5,9 +5,9 @@
 
   
 ## 💫About Me :
-🔭 I’m currently working on a C- Compiler, and a auto scaling cloud application project
+🔭 I’m currently working.
   
-🌱 I’m currently learning : Cryptography, Cloud Architecture, Compilers
+🌱 I’m currently learning : work.
 
 ⚡ I've mainly done work/projects in Typescript, Python and C# 
 
